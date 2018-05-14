@@ -49,7 +49,7 @@ namespace Encamina.workshop.ConferenceWeb.Controllers
         // GET: Sessions/Create
         public IActionResult Create()
         {
-            ViewData["EventId"] = new SelectList(_context.Events, "ID", "Id");
+            ViewData["EventId"] = new SelectList(_context.Events, "ID", "Name");
             ViewData["SpeakerId"] = new SelectList(_context.Speakers, "ID", "Name");
             return View();
         }

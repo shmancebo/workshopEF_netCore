@@ -1,5 +1,5 @@
 # INTRODUCCION a .NET y C#
-## Workshop Shernandez Mancebo - Encamina 
+>Workshop Shernandez Mancebo - Encamina 
 Este ejemplo detalla como trabajar con Entity Framework CORE y MVC en .Net Core, así como su despliegue en Azure App Service
 
 ## Requisitos Iniciales

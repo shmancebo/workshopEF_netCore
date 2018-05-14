@@ -1,0 +1,13 @@
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Encamina.workshop.Services.deps.json
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Encamina.workshop.Services.dll
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Encamina.workshop.Services.pdb
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.dll
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.pdb
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.csprojResolveAssemblyReference.cache
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.csproj.CoreCompileInputs.cache
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.AssemblyInfoInputs.cache
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.AssemblyInfo.cs
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.dll
+C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Services\obj\Debug\netcoreapp2.0\Encamina.workshop.Services.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Encamina.workshop.Backend</id>
+    <version>1.0.0</version>
+    <authors>Encamina.workshop.Backend</authors>
+    <owners>Encamina.workshop.Backend</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\GIT\Workshop\Encamina.worshopnetcore\Encamina.workshop.Backend\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.dll" target="lib\netcoreapp2.0\Encamina.workshop.Backend.dll" />
+  </files>
+</package>

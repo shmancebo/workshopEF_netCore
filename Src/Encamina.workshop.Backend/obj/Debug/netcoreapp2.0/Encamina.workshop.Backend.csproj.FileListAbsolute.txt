@@ -20,3 +20,11 @@ C:\GIT\WorkshopEF\workshop-netCore-EF\Encamina.workshop.Backend\obj\Debug\netcor
 C:\GIT\WorkshopEF\workshop-netCore-EF\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.AssemblyInfo.cs
 C:\GIT\WorkshopEF\workshop-netCore-EF\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.dll
 C:\GIT\WorkshopEF\workshop-netCore-EF\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.pdb
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.csproj.CoreCompileInputs.cache
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.AssemblyInfoInputs.cache
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.AssemblyInfo.cs
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.deps.json
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.dll
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\bin\Debug\netcoreapp2.0\Encamina.workshop.Backend.pdb
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.dll
+C:\GIT\WorkshopEF\workshopEF_netCore\Src\Encamina.workshop.Backend\obj\Debug\netcoreapp2.0\Encamina.workshop.Backend.pdb

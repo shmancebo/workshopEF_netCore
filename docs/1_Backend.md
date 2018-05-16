@@ -97,7 +97,7 @@ namespace Encamina.workshop.Backend.Models
 
 1. Instalar en el proyecto de backend el paquete nuget EntityFramework para .Net Core
 
-![](imagenes/paquete.PNG)
+![](imagenes/nuget.PNG)
 
 2. Creamos la clase `ConferenceContext.cs` en el proyecto de backend
 
